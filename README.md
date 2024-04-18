@@ -11,3 +11,5 @@
 ## Extension de Bracket Pair Colorizer
 
 ## Sintaxis de if - "?" y ":"
+
+## Diferencia de require e include
